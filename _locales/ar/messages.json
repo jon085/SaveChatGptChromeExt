@@ -1,0 +1,17 @@
+{
+  "title_message": {
+    "message": "حفظ ChatGPT"
+  },
+  "display_option": {
+    "message": "خيار العرض:"
+  },
+  "alert": {
+    "message": "لم يتم العثور على شيء!"
+  },
+  "save": {
+    "message": "حفظ كـ"
+  },
+  "copy": {
+    "message": "نسخ إلى الحافظة"
+  }
+}

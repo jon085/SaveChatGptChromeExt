@@ -1,0 +1,17 @@
+{
+  "title_message": {
+    "message": "Guardar ChatGPT"
+  },
+  "display_option": {
+    "message": "Opción de visualización:"
+  },
+  "alert": {
+    "message": "¡No se encontró nada!"
+  },
+  "save": {
+    "message": "Guardar como "
+  },
+  "copy": {
+    "message": "Copiar al portapapeles"
+  }
+}

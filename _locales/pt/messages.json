@@ -1,0 +1,17 @@
+{
+  "title_message": {
+    "message": "Salvar ChatGPT"
+  },
+  "display_option": {
+    "message": "Opção de Exibição:"
+  },
+  "alert": {
+    "message": "Nada encontrado!"
+  },
+  "save": {
+    "message": "Salvar como "
+  },
+  "copy": {
+    "message": "Copiar para a área de transferência"
+  }
+}

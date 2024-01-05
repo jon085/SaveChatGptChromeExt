@@ -1,0 +1,17 @@
+{
+  "title_message": {
+    "message": "ChatGPTを保存"
+  },
+  "display_option": {
+    "message": "表示オプション:"
+  },
+  "alert": {
+    "message": "見つかりませんでした！"
+  },
+  "save": {
+    "message": "別名で保存"
+  },
+  "copy": {
+    "message": "クリップボードにコピー"
+  }
+}

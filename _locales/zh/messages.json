@@ -1,0 +1,17 @@
+{
+  "title_message": {
+    "message": "保存 ChatGPT"
+  },
+  "display_option": {
+    "message": "显示选项:"
+  },
+  "alert": {
+    "message": "未找到任何内容！"
+  },
+  "save": {
+    "message": "另存为 "
+  },
+  "copy": {
+    "message": "复制到剪贴板"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "title_message": {
+    "message": "ChatGPT 저장하기"
+  },
+  "display_option": {
+    "message": "디스플레이 옵션:"
+  },
+  "alert": {
+    "message": "찾을 수 없습니다!"
+  },
+  "save": {
+    "message": "다른 이름으로 저장"
+  },
+  "copy": {
+    "message": "클립보드에 복사"
+  }
+}

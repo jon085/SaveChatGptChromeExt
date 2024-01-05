@@ -1,0 +1,17 @@
+{
+  "title_message": {
+    "message": "Сохранить ChatGPT"
+  },
+  "display_option": {
+    "message": "Вариант отображения:"
+  },
+  "alert": {
+    "message": "Ничего не найдено!"
+  },
+  "save": {
+    "message": "Сохранить как "
+  },
+  "copy": {
+    "message": "Копировать в буфер обмена"
+  }
+}

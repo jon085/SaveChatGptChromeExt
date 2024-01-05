@@ -1,0 +1,17 @@
+{
+  "title_message": {
+    "message": "ChatGPT'yi Kaydet"
+  },
+  "display_option": {
+    "message": "Görüntüleme Seçeneği:"
+  },
+  "alert": {
+    "message": "Hiçbir şey bulunamadı!"
+  },
+  "save": {
+    "message": "Farklı kaydet"
+  },
+  "copy": {
+    "message": "Panoya kopyala"
+  }
+}
